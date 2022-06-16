@@ -22,7 +22,7 @@ I am Somnath Golui, currently learning web development.
         <a title="HTML" href="https://www.w3schools.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/html-5.svg" alt="html" width="45" height="45" />
     </a>
-        <a title="CSS3" href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
+        <a title="CSS" href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="tomcat" width="45" height="45" />
     </a>
     <a title="JavaScript" href="" target="_blank">
