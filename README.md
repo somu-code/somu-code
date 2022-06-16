@@ -35,7 +35,3 @@ I am Somnath Golui, currently learning web development.
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="45" height="45" />
     </a>
 </p>
-
-<h2>🤝 Let's connect!</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/somnath-golui-395004217/" target="_blank"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://twitter.com/GoluiSomnath" target="_blank"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com"/></a>  &nbsp;
