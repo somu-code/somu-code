@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello there 👋
+## Hey 👋, I'm Somnath!
 
 
 ## About Me 
