@@ -7,10 +7,10 @@
 <!-- - 🔭 I’m currently working on ... -->
 
 - 🌱 I’m currently learning learning Backend Development at [bootdev](https://boot.dev).
-- 👯 I’m looking to collaborate on web releated open source projects.
+- 👯 I’m looking to collaborate with open source projects.
 - 🤔 I’m looking for help with landing on first developer job.
   <!-- - 💬 Ask me about ... -->
   <!-- - 📫 How to reach me: ... -->
-- 📫 You can reach me on [Twitter](https://twitter.com/GoluiSomnath), [Linkdin](https://www.linkedin.com/in/somnath-golui-395004217/).
+- 📫 My email id is code.somu@gmail.com and here are my socials [Twitter](https://twitter.com/GoluiSomnath), [Linkdin](https://www.linkedin.com/in/somnath-golui-395004217/).
   <!-- - 😄 Pronouns: ... -->
   <!-- - ⚡ Fun fact: ... -->
