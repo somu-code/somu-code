@@ -6,7 +6,7 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 
-- 🌱 I’m currently learning learning Backend Development at [bootdev](https://boot.dev).
+- 🌱 I’m currently learning learning Web Development.
 - 👯 I’m looking to collaborate with open source projects.
 - 🤔 I’m looking for help with landing on first developer job.
   <!-- - 💬 Ask me about ... -->
