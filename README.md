@@ -6,9 +6,8 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 
-- 🌱 I’m currently learning learning Web Development.
+- 🌱 I’m a MERN stack developer.
 - 👯 I’m looking to collaborate with open source projects.
-- 🤔 I’m looking for help with landing on first developer job.
   <!-- - 💬 Ask me about ... -->
   <!-- - 📫 How to reach me: ... -->
 - 📫 My email id is code.somu@gmail.com and here are my socials [Twitter](https://twitter.com/GoluiSomnath), [Linkdin](https://www.linkedin.com/in/somnath-golui-395004217/).
