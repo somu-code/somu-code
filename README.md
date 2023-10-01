@@ -2,7 +2,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Somnath!](https://twitter.com/GoluiSomnath)
+## Hey, I'm [Somnath!](https://twitter.com/GoluiSomnath)
 
 <!-- - 🔭 I’m currently working on ... -->
 
